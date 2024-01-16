@@ -5,7 +5,7 @@
 The hyprlandsettings utility is a powerful tool designed for modifying settings within the Hyprland Window Manager (WM) through a Text User Interface (TUI).
 This package provides a seamless and intuitive way for users to interactively tweak and customize various aspects of the Hyprland WM, enhancing the user experience and allowing for personalized desktop environments.
 
-Built with [hyprlang_parser](https://github.com/anotherhadi/hyprlang_parser) and [gml-ui](https://github.com/anotherhadi/gml-ui)
+Built with [hyprlang-parser](https://github.com/anotherhadi/hyprlang-parser) and [gml-ui](https://github.com/anotherhadi/gml-ui)
 
 ## Installation
 
