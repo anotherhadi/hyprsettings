@@ -3,7 +3,7 @@ package hyprsettings_utils
 import (
 	"os/user"
 
-	"github.com/anotherhadi/hyprlang_parser"
+	"github.com/anotherhadi/hyprlang-parser"
 )
 
 func readConfig() []string {

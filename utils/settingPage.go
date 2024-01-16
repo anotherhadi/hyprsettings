@@ -13,7 +13,7 @@ import (
 	"github.com/anotherhadi/gml-ui/paragraph"
 	"github.com/anotherhadi/gml-ui/rgba_picker"
 	"github.com/anotherhadi/gml-ui/selection_filter"
-	"github.com/anotherhadi/hyprlang_parser"
+	"github.com/anotherhadi/hyprlang-parser"
 )
 
 func displaySettingPage(page Page, breadcrumbs *[]string, message *string) {

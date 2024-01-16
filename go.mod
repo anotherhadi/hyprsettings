@@ -4,7 +4,7 @@ go 1.21.5
 
 require (
 	github.com/anotherhadi/gml-ui v0.0.0-20240106151348-f9cd1db755a9
-	github.com/anotherhadi/hyprlang_parser v0.0.0-20240103212103-05a71b77cecf
+	github.com/anotherhadi/hyprlang-parser v0.0.0-20240116201859-4468702859fd
 	github.com/shirou/gopsutil v3.21.11+incompatible
 )
 

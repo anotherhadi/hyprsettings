@@ -1,7 +1,7 @@
 github.com/anotherhadi/gml-ui v0.0.0-20240106151348-f9cd1db755a9 h1:N7XtmF+HbYNIor8BMCbL4L5oVww9uEJSZdbHF8Tu7mU=
 github.com/anotherhadi/gml-ui v0.0.0-20240106151348-f9cd1db755a9/go.mod h1:9FQAHQ+4u1wtnSrw4Oe7IbsEriS81W9HjaBKT3jvTCM=
-github.com/anotherhadi/hyprlang_parser v0.0.0-20240103212103-05a71b77cecf h1:gRfvp6ZNxvfYdu0fK8lGTijDaYquVyj/EV7s84nKAGo=
-github.com/anotherhadi/hyprlang_parser v0.0.0-20240103212103-05a71b77cecf/go.mod h1:p3HkTN6Fx1YBeNhdr/c0pD194ZO25Kdkb/jQn50jRVw=
+github.com/anotherhadi/hyprlang-parser v0.0.0-20240116201859-4468702859fd h1:M7YZw0CQBZhoGTkuXXi68qJoG1D9zodT/U5Tq//qYX8=
+github.com/anotherhadi/hyprlang-parser v0.0.0-20240116201859-4468702859fd/go.mod h1:uCQ+qk1ZjIqYyS4IbVE3nYeoty2aKE1dq/3qmmoUSGU=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-ole/go-ole v1.2.6 h1:/Fpf6oFPoeFik9ty7siob0G6Ke8QvQEuVcuChpwXzpY=
