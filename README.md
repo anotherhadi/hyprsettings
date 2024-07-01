@@ -1,5 +1,11 @@
 # Hyprsettings
 
+---
+
+### **/!\\ Deprecated**
+
+---
+
 ![hyprsettings](src/hyprsettings.gif)
 
 The hyprlandsettings utility is a powerful tool designed for modifying settings within the Hyprland Window Manager (WM) through a Text User Interface (TUI).
